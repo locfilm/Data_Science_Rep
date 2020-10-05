@@ -6,7 +6,8 @@ import scrapy
 # Year: //span[@id="titleYear"]/a/text()
 # Locations link: //*[@id="titleDetails"]/div[6]/span/a
 # Rating: //span[@itemprop="ratingValue"]/text()'
-# Locations: //div[@class="soda sodavote odd" or @class="soda sodavote even"]/dt/a/text()'
+# Locations: //div[@class="soda sodavote odd" or @class="soda sodavote even"]/dt/a/text()' 
+# Locations Option 2: //*[text()[contains(.,"Filming Locations")]]/../span/a/@href')
 # Gross worlwide: '//*[text()[contains(.,"Worldwide")]]/..'   (cant separate text)
 # Genres : '//div[@class="title_wrapper"]/div[@class="subtext"]/a[position()<3]/text()'
 
@@ -41,7 +42,7 @@ class FilmLocation(scrapy.Spider):
         year = response.xpath('//span[@id="titleYear"]/a/text()').get()
         genres = response.xpath('//div[@class="title_wrapper"]/div[@class="subtext"]/a[position()<3]/text()').getall()
         #Corregir xpath de location links
-        location_links = response.xpath('//*[@id="titleDetails"]/div[5]/span/a/@href').get()
+        location_links = response.xpath('//*[text()[contains(.,"Filming Locations")]]/../span/a/@href').get()
         if location_links:
             yield response.follow('locations', callback=self.parse_locations, cb_kwargs={'title':title, 'rating':rating, 'year':year, 'genres':genres})
         
