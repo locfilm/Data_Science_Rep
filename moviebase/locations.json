@@ -1,0 +1,2015 @@
+[
+    {
+        "title": "Dune ",
+        "year": "1984",
+        "rating": "6.5",
+        "genres": [
+            "Action",
+            "Adventure"
+        ],
+        "locations": [
+            "Estudios Churubusco Azteca, Mexico City, Distrito Federal, Mexico\n",
+            "Samalayuca, Chihuahua, Mexico\n",
+            "Yuma, Arizona, USA\n",
+            "Zzyzx, California, USA\n",
+            "Churubusco Studios, Mexico City, Distrito Federal, Mexico\n",
+            "Pinacate and Grand Desert of Altar, Sonora, Mexico\n",
+            "Puerto Penasco, Sonora, Mexico\n",
+            "Altar, Sonora, Mexico\n",
+            "Sierra Pinacate, Sonora, Mexico\n",
+            "Arizona, USA\n",
+            "Imperial County, California, USA\n",
+            "USA\n",
+            "California, USA\n",
+            "Mexico\n"
+        ]
+    },
+    {
+        "title": "Honey, I Shrunk the Kids ",
+        "year": "1989",
+        "rating": "6.4",
+        "genres": [
+            "Adventure",
+            "Comedy"
+        ],
+        "locations": [
+            "Estudios Churubusco Azteca, Mexico City, Distrito Federal, Mexico\n",
+            "Mexico City, Distrito Federal, Mexico\n",
+            "Vancouver, British Columbia, Canada\n",
+            "Beverly Hills, California, USA\n",
+            "Los Angeles, California, USA\n",
+            "San Diego, California, USA\n"
+        ]
+    },
+    {
+        "title": "Gravity ",
+        "year": "2013",
+        "rating": "7.7",
+        "genres": [
+            "Drama",
+            "Sci-Fi"
+        ],
+        "locations": [
+            "Space\n",
+            "Lake Powell, Arizona, USA\n",
+            "Shepperton Studios, Shepperton, Surrey, England, UK\n",
+            "Pinewood Studios, Iver Heath, Buckinghamshire, England, UK\n",
+            "B Stage, Pinewood Studios, Iver Heath, Buckinghamshire, England, UK\n",
+            "B Stage, Shepperton Studios, Shepperton, Surrey, England, UK\n",
+            "C Stage, Pinewood Studios, Iver Heath, Buckinghamshire, England, UK\n",
+            "C Stage, Shepperton Studios, Shepperton, Surrey, England, UK\n",
+            "R Stage, Shepperton Studios, Shepperton, Surrey, England, UK\n",
+            "S Stage, Shepperton Studios, Shepperton, Surrey, England, UK\n",
+            "T Stage, Shepperton Studios, Shepperton, Surrey, England, UK\n",
+            "W Stage, Shepperton Studios, Shepperton, Surrey, England, UK\n"
+        ]
+    },
+    {
+        "title": "Predator ",
+        "year": "1987",
+        "rating": "7.8",
+        "genres": [
+            "Action",
+            "Adventure"
+        ],
+        "locations": [
+            "Jalisco, Mexico\n",
+            "Palenque, Chiapas, Mexico\n",
+            "Puerto Vallarta, Jalisco, Mexico\n",
+            "Sierra Madre del Sur de Oaxaca, Mexico\n",
+            "Sierra Madre del Sur de Chiapas, Mexico\n"
+        ]
+    },
+    {
+        "title": "Romeo + Juliet ",
+        "year": "1996",
+        "rating": "6.7",
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "locations": [
+            "Chapultepec Castle, Chapultepec Park, Mexico City, Distrito Federal, Mexico\n",
+            "Alameda, California, USA\n",
+            "Estudios Churubusco Azteca, Mexico City, Distrito Federal, Mexico\n",
+            "Mexico City, Distrito Federal, Mexico\n",
+            "Texcoco, Estado de México, Mexico\n",
+            "Veracruz, Mexico\n",
+            "Mexico City, Distrito Federal, Mexico\n"
+        ]
+    },
+    {
+        "title": "Annette ",
+        "year": "2021",
+        "rating": null,
+        "genres": [
+            "Drama",
+            "Musical"
+        ],
+        "locations": [
+            "Münster, Germany\n",
+            "Kunstmuseum, Bonn, North Rhine-Westphalia, Germany\n",
+            "Dusseldorf, Germany\n",
+            "Wales, UK\n",
+            "MMC-Studios Cologne, Germany\n",
+            "Brussels, Brussels-Capital, Belgium\n"
+        ]
+    },
+    {
+        "title": "Silence ",
+        "year": "2016",
+        "rating": "7.2",
+        "genres": [
+            "Drama",
+            "History"
+        ],
+        "locations": [
+            "Taiwan\n",
+            "Taipei City, Taiwan\n",
+            "Hualien, Taiwan\n",
+            "Macau, China\n",
+            "CMPC Studio, Taipei City, Taiwan\n",
+            "Beitou, Taipei City, Taiwan\n",
+            "Taichung, Taiwan\n",
+            "Yangmingshan National Park, Taipei City, Taiwan\n"
+        ]
+    },
+    {
+        "title": "Total Recall ",
+        "year": "1990",
+        "rating": "7.5",
+        "genres": [
+            "Action",
+            "Sci-Fi"
+        ],
+        "locations": [
+            "Heroico Colegio Militar, Mexico City, Distrito Federal, Mexico\n",
+            "Estudios Churubusco Azteca, Mexico City, Distrito Federal, Mexico\n",
+            "Valley of Fire State Park - Route 169, Overton, Nevada, USA\n",
+            "Subway System, Mexico City, Distrito Federal, Mexico\n",
+            "Mexico City, Distrito Federal, Mexico\n",
+            "Metro Chabacano, Calz. San Antonio Abad, Mexico City, Distrito Federal, Mexico\n",
+            "280 Av. Barranca del Muerto, Guadalupe Inn, Mexico City, Distrito Federal, Mexico\n",
+            "Glorieta de Insurgentes - Av. Insurgentes, Cuauhtémoc, Mexico City, Distrito Federal, Mexico\n",
+            "Mexico\n"
+        ]
+    },
+    {
+        "title": "From Dusk Till Dawn ",
+        "year": "1996",
+        "rating": "7.2",
+        "genres": [
+            "Action",
+            "Crime"
+        ],
+        "locations": [
+            "Calico Dry Lake, California, USA\n",
+            "Barstow, California, USA\n",
+            "Chihuahua, Mexico\n",
+            "Lancaster, California, USA\n",
+            "Los Angeles, California, USA\n",
+            "Redmond, Washington, USA\n",
+            "Seattle, Washington, USA\n"
+        ]
+    },
+    {
+        "title": "Pan's Labyrinth ",
+        "year": "2006",
+        "rating": "8.2",
+        "genres": [
+            "Drama",
+            "Fantasy"
+        ],
+        "locations": [
+            "El Espinar, Segovia, Castilla y León, Spain\n",
+            "Segovia, Castilla y León, Spain\n",
+            "Belchite, Zaragoza, Aragón, Spain\n",
+            "Sierra de Guadarrama mountain range, Madrid, Spain\n",
+            "Spain\n",
+            "Algete, Madrid, Spain\n"
+        ]
+    },
+    {
+        "title": "Dora and the Lost City of Gold ",
+        "year": "2019",
+        "rating": "6.1",
+        "genres": [
+            "Adventure",
+            "Comedy"
+        ],
+        "locations": [
+            "Tarapoto, Peru\n",
+            "Village Roadshow Studios, Oxenford, Queensland, Australia\n",
+            "Lima, Peru\n",
+            "Brisbane, Queensland, Australia\n",
+            "Peru\n",
+            "Australia\n"
+        ]
+    },
+    {
+        "title": "Mayans M.C.             ",
+        "year": null,
+        "rating": "7.5",
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "locations": []
+    },
+    {
+        "title": "Sicario: Day of the Soldado ",
+        "year": "2018",
+        "rating": "7.1",
+        "genres": [
+            "Action",
+            "Adventure"
+        ],
+        "locations": [
+            "USA\n",
+            "Avenida Santa Fe 485, Cuajimalpa, Mexico City, Mexico\n",
+            "Albuquerque, New Mexico, USA\n",
+            "Cottonwood Mall, 10000 Coors Blvd Bypass NW, Albuquerque, New Mexico, USA\n",
+            "Mexico City, Mexico\n",
+            "900 Walter St SE Albuquerque, New Mexico, USA\n",
+            "Mexico\n",
+            "31 Av. 5 de Mayo, Mexico City\n",
+            "Calle 11 Chalco de Díaz Covarrubias, Mexico\n",
+            "71 República de Perú, Mexico City, Mexico\n"
+        ]
+    },
+    {
+        "title": "Fighting with My Family ",
+        "year": "2019",
+        "rating": "7.1",
+        "genres": [
+            "Biography",
+            "Comedy"
+        ],
+        "locations": [
+            "Bracknell, Berkshire, England, UK\n",
+            "Norwich, Norfolk, England, UK\n",
+            "Norwich, Norfolk, England, UK\n",
+            "Great Yarmouth, Norfolk, England, UK\n",
+            "Santa Clarita, California, USA\n",
+            "Citizens Business Bank Arena - 4000 E. Ontario Center Parkway, Ontario, California, USA\n",
+            "Staples Center - 1111 S. Figueroa Street, Downtown, Los Angeles, California, USA\n",
+            "Orlando, Florida, USA\n",
+            "Long Beach, California, USA\n"
+        ]
+    },
+    {
+        "title": "The Holy Mountain ",
+        "year": "1973",
+        "rating": "7.9",
+        "genres": [
+            "Adventure",
+            "Drama"
+        ],
+        "locations": [
+            "Chichén Itzá, Yucatán, Mexico\n",
+            "Ciudad Satélite, Mexico City, Distrito Federal, Mexico\n",
+            "Gimnasio Olímpico, Mexico City, Distrito Federal, Mexico\n",
+            "Isla Mujeres, Quintana Roo, Mexico\n",
+            "Uxmal, Yucatán, Mexico\n",
+            "Mexico\n",
+            "Estudios América, Mexico City, Distrito Federal, Mexico\n",
+            "La Merced, Mexico City, Distrito Federal, Mexico\n",
+            "Palacio de los deportes, Mexico City, Distrito Federal, Mexico\n",
+            "Parque Izta-Popo, Mexico\n",
+            "Paso de Cortés, Mexico\n",
+            "Preparatoria 2, Mexico City, Distrito Federal, Mexico\n",
+            "Teotihuacán, San Juan Teotihuacán, Estado de México, Mexico\n",
+            "Volcán Iztaccíhualt, Puebla, Mexico\n",
+            "Plaza de la Constitucion, Mexico City, Distrito Federal, Mexico\n",
+            "Villa de Guadalupe, Mexico City, Distrito Federal, Mexico\n"
+        ]
+    },
+    {
+        "title": "Santa Sangre ",
+        "year": "1989",
+        "rating": "7.6",
+        "genres": [
+            "Drama",
+            "Horror"
+        ],
+        "locations": [
+            "Estudios Churubusco Azteca, Mexico City, Distrito Federal, Mexico\n",
+            "Mexico City, Distrito Federal, Mexico\n",
+            "Mexico\n"
+        ]
+    },
+    {
+        "title": "Stigmata ",
+        "year": "1999",
+        "rating": "6.2",
+        "genres": [
+            "Horror",
+            "10 September 1999 (USA)\n"
+        ],
+        "locations": [
+            "Pittsburgh, Pennsylvania, USA\n",
+            "Eastern Columbia Building - 849 S. Broadway, Los Angeles, California, USA\n",
+            "Rome, Lazio, Italy\n",
+            "San Francisco, California, USA\n",
+            "Vancouver, British Columbia, Canada\n",
+            "Mexico\n",
+            "Greystone Park & Mansion - 905 Loma Vista Drive, Beverly Hills, California, USA\n",
+            "Los Angeles, California, USA\n",
+            "Palace of Fine Arts - 3301 Lyon Street, San Francisco, California, USA\n",
+            "St. Vincent Catholic Church - 621 W. Adams Blvd., Los Angeles, California, USA\n",
+            "California, USA\n"
+        ]
+    },
+    {
+        "title": "Instructions Not Included ",
+        "year": "2013",
+        "rating": "7.5",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "locations": [
+            "Acapulco, Guerrero, Mexico\n",
+            "Los Angeles, California, USA\n",
+            "Nate Starkman & Son Building - 544 Mateo St, Los Angeles, California, USA\n",
+            "Hollywood, California, USA\n"
+        ]
+    },
+    {
+        "title": "The Witches ",
+        "year": "2020",
+        "rating": null,
+        "genres": [
+            "Adventure",
+            "Comedy"
+        ],
+        "locations": [
+            "Surrey, England, UK\n"
+        ]
+    },
+    {
+        "title": "Blow ",
+        "year": "2001",
+        "rating": "7.6",
+        "genres": [
+            "Biography",
+            "Crime"
+        ],
+        "locations": [
+            "Ontario International Airport - 2900 E. Airport Drive, Ontario, California, USA\n",
+            "Whittier, California, USA\n",
+            "Long Beach, California, USA\n",
+            "Los Angeles, California, USA\n",
+            "Manhattan Beach, California, USA\n",
+            "Mexico\n",
+            "Ontario, California, USA\n",
+            "Palmdale, California, USA\n",
+            "Pasadena, California, USA\n",
+            "Spring Street Towers - 650 S. Spring Street, Downtown, Los Angeles, California, USA\n",
+            "Acapulco, Guerrero, Mexico\n",
+            "Bel Air, Los Angeles, California, USA\n",
+            "Chicago, Illinois, USA\n",
+            "918 N Alpine Dr, Beverly Hills, California, USA\n",
+            "Ambassador Hotel - 3400 Wilshire Boulevard, Los Angeles, California, USA\n",
+            "California, USA\n",
+            "USA\n"
+        ]
+    },
+    {
+        "title": "Get the Gringo ",
+        "year": "2012",
+        "rating": "7.0",
+        "genres": [
+            "Action",
+            "Crime"
+        ],
+        "locations": [
+            "Brownsville, Texas, USA\n",
+            "Veracruz, Veracruz, Mexico\n",
+            "San Diego, California, USA\n",
+            "Veracruz, Mexico\n",
+            "Mexico\n"
+        ]
+    },
+    {
+        "title": "The Devil's Backbone ",
+        "year": "2001",
+        "rating": "7.4",
+        "genres": [
+            "Drama",
+            "Horror"
+        ],
+        "locations": [
+            "Talamanca del Jarama, Madrid, Spain\n",
+            "Cubillo de Uceda, Guadalajara, Castilla-La Mancha, Spain\n",
+            "Madrid, Spain\n",
+            "Spain\n"
+        ]
+    },
+    {
+        "title": "Revenge ",
+        "year": "1990",
+        "rating": "6.3",
+        "genres": [
+            "Action",
+            "Crime"
+        ],
+        "locations": [
+            "Puerto Vallarta, Jalisco, Mexico\n",
+            "Sierra de Organos, Sombrerete, Zacatecas, Mexico\n",
+            "Cuernavaca, Morelos, Mexico\n",
+            "Durango, Mexico\n",
+            "Mexico City, Distrito Federal, Mexico\n",
+            "Mexico\n"
+        ]
+    },
+    {
+        "title": "Someone Has to Die             ",
+        "year": null,
+        "rating": null,
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "locations": []
+    },
+    {
+        "title": "A Walk in the Clouds ",
+        "year": "1995",
+        "rating": "6.7",
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "locations": [
+            "Redwood Cellar, Charles Krug Winery - 2800 Main Street, St. Helena, Napa Valley, California, USA\n",
+            "San Pedro, Los Angeles, California, USA\n",
+            "Chapel Hill, North Carolina, USA\n",
+            "Beringer Vineyards - 2000 Main Street, St. Helena, Napa Valley, California, USA\n",
+            "Duckhorn Vineyards - 1000 Lodi Lane, St. Helena, Napa Valley, California, USA\n",
+            "Haywood Vineyards - 18000 Old Winery Road, Sonoma, California, USA\n",
+            "Mayacamas Vineyards - 1155 Lokoya Road, Napa, Napa Valley, California, USA\n",
+            "Alverno High School - 200 North Michillinda Avenue, Sierra Madre, California, USA\n",
+            "Mount Veeder Winery - 1999 Mount Veeder Road, Napa, Napa Valley, California, USA\n",
+            "Napa, Napa Valley, California, USA\n",
+            "Napa Valley, California, USA\n",
+            "City Hall - 100 N. Garfield Avenue, Pasadena, California, USA\n",
+            "California, USA\n"
+        ]
+    },
+    {
+        "title": "Collateral Damage ",
+        "year": "2002",
+        "rating": "5.5",
+        "genres": [
+            "Action",
+            "Drama"
+        ],
+        "locations": [
+            "La Antigua, Veracruz, Mexico\n",
+            "USA\n",
+            "Los Angeles, California, USA\n",
+            "Union Station - 50 Massachusetts Avenue NE, Washington, District of Columbia, USA\n",
+            "New York City, New York, USA\n",
+            "Stage 16, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA\n",
+            "Stage 20, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA\n",
+            "Stage 22, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA\n",
+            "Stage 7, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA\n",
+            "Stage 8, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA\n",
+            "Veracruz, Mexico\n",
+            "Los Angeles Center Studios, Los Angeles, California, USA\n"
+        ]
+    },
+    {
+        "title": "Monsters ",
+        "year": "2010",
+        "rating": "6.4",
+        "genres": [
+            "Adventure",
+            "Drama"
+        ],
+        "locations": [
+            "Texas, USA\n",
+            "Yaxha, Maya ruins, Guatemala\n",
+            "Belize\n",
+            "Costa Rica\n",
+            "Guatemala\n",
+            "Mexico\n"
+        ]
+    },
+    {
+        "title": "The Falcon and the Snowman ",
+        "year": "1985",
+        "rating": "6.8",
+        "genres": [
+            "Biography",
+            "Crime"
+        ],
+        "locations": [
+            "Tijuana, Baja California Norte, Mexico\n",
+            "Mexico City, Distrito Federal, Mexico\n",
+            "Mexico\n",
+            "Los Angeles, California, USA\n",
+            "Via Segovia, Palos Verdes Estates, California, USA\n",
+            "California, USA\n",
+            "USA\n"
+        ]
+    },
+    {
+        "title": "The Treasure of the Sierra Madre ",
+        "year": "1948",
+        "rating": "8.2",
+        "genres": [
+            "Adventure",
+            "Drama"
+        ],
+        "locations": [
+            "Tampico, Tamaulipas, Mexico\n",
+            "Kernville, California, USA\n",
+            "Mojave Desert, California, USA\n",
+            "Tucson, Arizona, USA\n",
+            "Bavispe, Sonora, Mexico\n",
+            "Yuma, Arizona, USA\n",
+            "Acapulco, Guerrero, Mexico\n",
+            "Jungapeo, Michoacán, Mexico\n",
+            "San Jose Purua, Michoacán, Mexico\n",
+            "Sierra Madre del Sur, Mexico\n",
+            "Iverson Ranch - 1 Iverson Lane, Chatsworth, Los Angeles, California, USA\n",
+            "Mojave Desert, Arizona, USA\n",
+            "Sierra Madre Occidental, Mexico\n",
+            "Sierra Madre Occidental, Sonora, Mexico\n",
+            "Stage 1, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA\n",
+            "Stage 6, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA\n",
+            "Stage 9, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA\n",
+            "Bacerac, Sonora, Mexico\n",
+            "Sierra de los Ajos, Bavispe, Sonora, Mexico\n",
+            "Mexico\n",
+            "Tucson Mountains, Arizona, USA\n"
+        ]
+    },
+    {
+        "title": "False Identity             ",
+        "year": null,
+        "rating": "7.3",
+        "genres": [
+            "Drama",
+            "TV Series (2018– )\n"
+        ],
+        "locations": []
+    },
+    {
+        "title": "El Señor de los Cielos             ",
+        "year": null,
+        "rating": "6.8",
+        "genres": [
+            "Action",
+            "Crime"
+        ],
+        "locations": []
+    },
+    {
+        "title": "Cranston Academy: Monster Zone ",
+        "year": "2020",
+        "rating": "4.9",
+        "genres": [
+            "Animation",
+            "5 August 2020 (Mexico)\n"
+        ],
+        "locations": []
+    },
+    {
+        "title": "Biutiful ",
+        "year": "2010",
+        "rating": "7.5",
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "locations": [
+            "Catalonia, Spain\n",
+            "Barcelona, Catalonia, Spain\n",
+            "Santa Coloma de Gramanet, Barcelona, Catalonia, Spain\n",
+            "Navarra, Spain\n",
+            "Monte de San Donato Berain, Navarra, Spain\n",
+            "Badalona, Barcelona, Catalonia, Spain\n",
+            "Barri del Raval, Barcelona, Catalonia, Spain\n",
+            "Sierra de Abodi, Navarra, Spain\n",
+            "Spain\n"
+        ]
+    },
+    {
+        "title": "Soy Luna             ",
+        "year": null,
+        "rating": "6.8",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "locations": [
+            "Cancún, Mexico\n",
+            "Buenos Aires, Federal District, Argentina\n",
+            "Palacio Sans Souci, Buenos Aires, Argentina\n",
+            "Distrito Arcos, Buenos Aires, Argentina\n",
+            "Villa La Joya, Cancún, Mexico\n",
+            "Estudios Baires, Don Torcuato, Buenos Aires, Argentina\n"
+        ]
+    },
+    {
+        "title": "New Order ",
+        "year": "2020",
+        "rating": "6.5",
+        "genres": [
+            "Drama",
+            "22 October 2020 (Mexico)\n"
+        ],
+        "locations": []
+    },
+    {
+        "title": "Don't Be Afraid of the Dark ",
+        "year": "2010",
+        "rating": "5.6",
+        "genres": [
+            "Fantasy",
+            "Horror"
+        ],
+        "locations": [
+            "Mount Macedon, Victoria, Australia\n",
+            "Melbourne, Victoria, Australia\n",
+            "Central City Studios, Melbourne, Victoria, Australia\n"
+        ]
+    },
+    {
+        "title": "Rio Lobo ",
+        "year": "1970",
+        "rating": "6.8",
+        "genres": [
+            "Adventure",
+            "Romance"
+        ],
+        "locations": [
+            "Old Tucson - 201 S. Kinney Road, Tucson, Arizona, USA\n",
+            "Cuernavaca, Morelos, Mexico\n",
+            "Tucson, Arizona, USA\n",
+            "Picacho Peak State Park, Arizona, USA\n",
+            "Sonoran Desert, Arizona, USA\n",
+            "Sierrita Mountains, Arizona, USA\n",
+            "Tucson Mountains, Arizona, USA\n",
+            "Ironwood Forest National Monument, Arizona, USA\n",
+            "Ruby, Arizona, USA\n",
+            "Arivaca, Arizona, USA\n",
+            "Tumacacori, Arizona, USA\n",
+            "Bavispe, Sonora, Mexico\n",
+            "Bacerac, Sonora, Mexico\n"
+        ]
+    },
+    {
+        "title": "Control Z             ",
+        "year": null,
+        "rating": "6.9",
+        "genres": [
+            "Drama",
+            "TV Series (2020– )\n"
+        ],
+        "locations": []
+    },
+    {
+        "title": "On the Road ",
+        "year": "2012",
+        "rating": "6.1",
+        "genres": [
+            "Adventure",
+            "Drama"
+        ],
+        "locations": [
+            "Bariloche, Río Negro, Argentina\n",
+            "Patagonia, Argentina\n",
+            "Calgary, Alberta, Canada\n",
+            "Erie, Pennsylvania, USA\n",
+            "Twenty Nine Palms, California, USA\n",
+            "Phoenix, Arizona, USA\n",
+            "Puebla, Mexico\n",
+            "El Sobrante, San Francisco, California, USA\n",
+            "Bridge City, Louisiana, USA\n",
+            "Las Vegas, New Mexico, USA\n",
+            "Lubbock, Texas, USA\n",
+            "Utica, New York, USA\n",
+            "Salaberry de Valleyfield, Québec, Canada\n",
+            "Amite, Louisiana, USA\n",
+            "Locke, Sacramento, California, USA\n",
+            "New Orleans, Louisiana, USA\n",
+            "Hull, Gatineau, Québec, Canada\n",
+            "Gatineau, Québec, Canada\n",
+            "Montréal, Québec, Canada\n",
+            "Lexington, Kentucky, USA\n",
+            "Los Angeles, California, USA\n",
+            "Memphis, Tennessee, USA\n",
+            "Santa Fe, New Mexico, USA\n",
+            "Springville, Arkansas, USA\n",
+            "Texarkana, Arkansas, USA\n",
+            "Mirabel, Québec, Canada\n",
+            "Nashville, Tennessee, USA\n",
+            "New York City, New York, USA\n",
+            "Saint-Charles, Canada\n",
+            "Arlington, Arizona, USA\n",
+            "Morgan City, Louisiana, USA\n",
+            "Grenville sur la Rouge, Québec, Canada\n",
+            "Hudson, Québec, Canada\n",
+            "Hull, Québec, Canada\n",
+            "Vaudreuil Dorion, Québec, Canada\n",
+            "Mont-Saint-Hilaire, Québec, Canada\n",
+            "Saint-Jean sur Richelieu, Québec, Canada\n",
+            "USA\n"
+        ]
+    },
+    {
+        "title": "Sound of Freedom ",
+        "year": "2020",
+        "rating": null,
+        "genres": [
+            "Action",
+            "Drama"
+        ],
+        "locations": "Not available"
+    },
+    {
+        "title": "The Mexican ",
+        "year": "2001",
+        "rating": "6.1",
+        "genres": [
+            "Adventure",
+            "Comedy"
+        ],
+        "locations": [
+            "Real de Catorce, San Luis Potosí, Mexico\n",
+            "Tunnel Ogarrio, San Luis Potosí, Mexico\n",
+            "Ventura Blvd., Studio City, Los Angeles, California, USA\n",
+            "McCarran International Airport - 5757 Wayne Newton Boulevard, Las Vegas, Nevada, USA\n",
+            "Belz Factory Outlet Mall - 7400 Las Vegas Boulevard South, Las Vegas, Nevada, USA\n",
+            "Mexico\n",
+            "Las Vegas, Nevada, USA\n",
+            "Summerlin Parkway, Las Vegas, Nevada, USA\n",
+            "Los Angeles, California, USA\n"
+        ]
+    },
+    {
+        "title": "The Wicker Man ",
+        "year": "2006",
+        "rating": "3.7",
+        "genres": [
+            "Horror",
+            "Mystery"
+        ],
+        "locations": [
+            "Saturna Island, British Columbia, Canada\n",
+            "Merritt, British Columbia, Canada\n",
+            "Vancouver, British Columbia, Canada\n",
+            "Bowen Island, British Columbia, Canada\n",
+            "Langley, British Columbia, Canada\n",
+            "Los Angeles, California, USA\n",
+            "Upper Nicola, British Columbia, Canada\n",
+            "British Columbia, Canada\n"
+        ]
+    },
+    {
+        "title": "I Still Know What You Did Last Summer ",
+        "year": "1998",
+        "rating": "4.7",
+        "genres": [
+            "Horror",
+            "Mystery"
+        ],
+        "locations": [
+            "El Tecuan Marina Resort, Costa Careyes, Jalisco, Mexico\n",
+            "Costa Careyes, Jalisco, Mexico\n",
+            "Downtown, Los Angeles, California, USA\n",
+            "El Tamarindo, Jalisco, Mexico\n",
+            "University of Southern California, Los Angeles, California, USA\n",
+            "Alumni Park - 3551 Trousdale Parkway, University of Southern California, Los Angeles, California, USA\n",
+            "Exposition Park, Los Angeles, California, USA\n",
+            "Gold Coast, Mexico\n",
+            "Los Angeles, California, USA\n",
+            "Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA\n",
+            "St. Cecilia's Catholic Church - 4230 Normandie Avenue, Los Angeles, California, USA\n"
+        ]
+    },
+    {
+        "title": "The Bridge             ",
+        "year": null,
+        "rating": "7.6",
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "locations": [
+            "El Paso, Texas, USA\n",
+            "Tijuana, Baja California Norte, Mexico\n",
+            "Los Angeles, California, USA\n",
+            "Juarez, Mexico\n"
+        ]
+    },
+    {
+        "title": "The House of Flowers             ",
+        "year": null,
+        "rating": "7.7",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "locations": []
+    },
+    {
+        "title": "The Orphanage ",
+        "year": "2007",
+        "rating": "7.4",
+        "genres": [
+            "Drama",
+            "Fantasy"
+        ],
+        "locations": [
+            "Llanes, Oviedo, Asturias, Spain\n",
+            "Barcelona, Catalonia, Spain\n",
+            "Playa de Andrín, Llanes, Asturias, Spain\n"
+        ]
+    },
+    {
+        "title": "Free Willy ",
+        "year": "1993",
+        "rating": "6.0",
+        "genres": [
+            "Adventure",
+            "Drama"
+        ],
+        "locations": [
+            "Astoria, Oregon, USA\n",
+            "Portland, Oregon, USA\n",
+            "Mexico City, Distrito Federal, Mexico\n",
+            "Cannon Beach, Oregon, USA\n",
+            "San Juan Islands, Washington, USA\n",
+            "Burnside Skatepark, Portland, Oregon, USA\n",
+            "3392 Harrison Ave, Astoria, Oregon, USA\n",
+            "14th St dock, Astoria, Oregon, USA\n",
+            "Hammond Marina, Hammond, Oregon, USA\n",
+            "Six Flags México, Mexico City, Distrito Federal, Mexico\n",
+            "Ecola State Park - Highway 101, Cannon Beach, Oregon, USA\n",
+            "Oaks Amusement Park - 7805 SE Oaks Park Way, Portland, Oregon, USA\n",
+            "Oregon, USA\n",
+            "Washington, USA\n",
+            "USA\n"
+        ]
+    },
+    {
+        "title": "Resident Evil: Extinction ",
+        "year": "2007",
+        "rating": "6.3",
+        "genres": [
+            "Action",
+            "Horror"
+        ],
+        "locations": [
+            "San Felipe, Baja California Norte, Mexico\n",
+            "Laguna Salada, Mexicali, Baja California Norte, Mexico\n",
+            "Rumorosa Pass, Mexicali, Baja California Norte, Mexico\n",
+            "Churubusco Studios, Mexico City, Distrito Federal, Mexico\n",
+            "Mexicali, Baja California Norte, Mexico\n"
+        ]
+    },
+    {
+        "title": "Spare Parts ",
+        "year": "2015",
+        "rating": "7.3",
+        "genres": [
+            "Drama",
+            "5 June 2015 (Mexico)\n"
+        ],
+        "locations": [
+            "Albuquerque, New Mexico, USA\n"
+        ]
+    },
+    {
+        "title": "Miss Bala ",
+        "year": "2019",
+        "rating": "5.8",
+        "genres": [
+            "Action",
+            "Crime"
+        ],
+        "locations": [
+            "Monumental Playas de Tijuana, Av. Del Pacífico 4, Tijuana, Baja California Norte, Mexico\n",
+            "OMNIMAX Cinema, Centro Cultural Tijuana, Paseo de los Héroes 9350, Zona Urbana Rio Tijuana, Mexico\n"
+        ]
+    },
+    {
+        "title": "El juego de las llaves             ",
+        "year": null,
+        "rating": "6.7",
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "locations": []
+    },
+    {
+        "title": "Gringo ",
+        "year": "2018",
+        "rating": "6.1",
+        "genres": [
+            "Action",
+            "Comedy"
+        ],
+        "locations": [
+            "Veracruz, Veracruz, Mexico\n",
+            "Naperville, Illinois, USA\n",
+            "Mexico City, Mexico\n",
+            "Chicago, Illinois, USA\n",
+            "Santa Clarita, California, USA\n",
+            "Lisle, Illinois, USA\n",
+            "Los Angeles, California, USA\n",
+            "Tulum, Quintana Roo, Mexico\n",
+            "Tulum, Mexico\n",
+            "Illinois, USA\n",
+            "California, USA\n"
+        ]
+    },
+    {
+        "title": "El Dragón: Return of a Warrior             ",
+        "year": null,
+        "rating": "7.0",
+        "genres": [
+            "Action",
+            "Adventure"
+        ],
+        "locations": [
+            "Tokyo, Japan\n",
+            "Miami, Florida, USA\n",
+            "Mexico City, Mexico\n",
+            "Madrid, Spain\n"
+        ]
+    },
+    {
+        "title": "Once Upon a Time in Mexico ",
+        "year": "2003",
+        "rating": "6.4",
+        "genres": [
+            "Action",
+            "Crime"
+        ],
+        "locations": [
+            "San Miguel de Allende, Guanajuato, Mexico\n",
+            "Guanajuato, Mexico\n",
+            "Querétaro, Mexico\n",
+            "Mexico\n",
+            "Austin, Texas, USA\n",
+            "San Antonio, Texas, USA\n"
+        ]
+    },
+    {
+        "title": "Aliens vs. Predator: Requiem ",
+        "year": "2007",
+        "rating": "4.7",
+        "genres": [
+            "Action",
+            "Adventure"
+        ],
+        "locations": [
+            "Vancouver, British Columbia, Canada\n",
+            "2283 McAllister Avenue, Port Coquitlam, British Columbia, Canada\n",
+            "Coquitlam, British Columbia, Canada\n",
+            "Port Coquitlam, British Columbia, Canada\n",
+            "British Columbia, Canada\n",
+            "Canada\n",
+            "Langley, British Columbia, Canada\n"
+        ]
+    },
+    {
+        "title": "Club Dread ",
+        "year": "2004",
+        "rating": "5.7",
+        "genres": [
+            "Comedy",
+            "Horror"
+        ],
+        "locations": [
+            "El Tamarindo, Jalisco, Mexico\n",
+            "Hotel Cabo Blanco, Jalisco, Mexico\n",
+            "Mexico\n"
+        ]
+    },
+    {
+        "title": "The Arrival ",
+        "year": "1996",
+        "rating": "6.3",
+        "genres": [
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "locations": [
+            "Owens Valley, California, USA\n",
+            "Taxco, Guerrero, Mexico\n",
+            "Tepoztlán, Estado de Morelos, Mexico\n",
+            "Grove Street, Bishop, California, USA\n",
+            "Tula, Hidalgo, Mexico\n",
+            "1189 N Wilson Avenue, Pasadena, California, USA\n",
+            "Churubusco Studios, Mexico City, Distrito Federal, Mexico\n",
+            "Estudios América, Mexico City, Distrito Federal, Mexico\n",
+            "Centro Nacional de las Artes, Churubusco, Mexico City, Distrito Federal, Mexico\n",
+            "Owens Valley Radio Observatory, Owens Valley, California, USA\n",
+            "1199 N Wilson Avenue, Pasadena, California, USA\n"
+        ]
+    },
+    {
+        "title": "Conan the Destroyer ",
+        "year": "1984",
+        "rating": "5.9",
+        "genres": [
+            "Action",
+            "Adventure"
+        ],
+        "locations": [
+            "Juarez, Mexico\n",
+            "Yuma, Arizona, USA\n",
+            "Churubusco Studios, Mexico City, Distrito Federal, Mexico\n",
+            "Pachuca, Hidalgo, Mexico\n",
+            "Samalayuca, Chihuahua, Mexico\n",
+            "Coahuila, Mexico\n",
+            "Bavispe, Sonora, Mexico\n",
+            "Durango, Mexico\n",
+            "Nevado de Toluca, Estado de México, Mexico\n"
+        ]
+    },
+    {
+        "title": "Nacho Libre ",
+        "year": "2006",
+        "rating": "5.8",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "locations": [
+            "Oaxaca, Mexico\n",
+            "Monte Alban, Oaxaca, Mexico\n",
+            "Mexican Street, Backlot, Universal Studios - 100 Universal City Plaza, Universal City, California, USA\n"
+        ]
+    },
+    {
+        "title": "Colombiana ",
+        "year": "2011",
+        "rating": "6.4",
+        "genres": [
+            "Action",
+            "Drama"
+        ],
+        "locations": [
+            "Mexico City, Distrito Federal, Mexico\n",
+            "New Orleans, Louisiana, USA\n",
+            "Union Station- 225 South Canal Street, Chicago, Illinois, USA\n",
+            "Wicker Park, West Town, Chicago, Illinois, USA\n",
+            "Chicago, Illinois, USA\n",
+            "SFP Studios, Bry sur Marne, France\n"
+        ]
+    },
+    {
+        "title": "El Topo ",
+        "year": "1970",
+        "rating": "7.4",
+        "genres": [
+            "Drama",
+            "Western"
+        ],
+        "locations": [
+            "Cañón de la Huasteca, Santa Catarina, Nuevo León, Mexico\n",
+            "Grutas de Villa García, Nuevo León, Mexico\n",
+            "Bavispe, Sonora, Mexico\n",
+            "Samalayuca, Chihuahua, Mexico\n",
+            "Durango, Mexico\n",
+            "Sierra Pinacate, Sonora, Mexico\n",
+            "Monterrey, Nuevo León, Mexico\n",
+            "Pachuca, Hidalgo, Mexico\n",
+            "San Luis Potosí, Mexico\n",
+            "Torreón, Coahuíla, Mexico\n",
+            "Mexico\n",
+            "Mexico City, Distrito Federal, Mexico\n",
+            "Estudios América, Mexico City, Distrito Federal, Mexico\n",
+            "Huivulay, Mexico\n",
+            "Pedriceña, Durango, Mexico\n"
+        ]
+    },
+    {
+        "title": "Desperado ",
+        "year": "1995",
+        "rating": "7.2",
+        "genres": [
+            "Action",
+            "Crime"
+        ],
+        "locations": [
+            "Ciudad Acuña, Coahuíla, Mexico\n",
+            "Coahuíla, Mexico\n",
+            "Mexico\n"
+        ]
+    },
+    {
+        "title": "The Legend of Zorro ",
+        "year": "2005",
+        "rating": "6.0",
+        "genres": [
+            "Action",
+            "Adventure"
+        ],
+        "locations": [
+            "Mexico\n",
+            "Wellington, New Zealand\n",
+            "New Zealand\n",
+            "Stone Street Studios, Stone Street, Miramar, Wellington, New Zealand\n",
+            "San Luis Potosi, San Luis Potosí, Mexico\n"
+        ]
+    },
+    {
+        "title": "Overboard ",
+        "year": "2018",
+        "rating": "6.0",
+        "genres": [
+            "Comedy",
+            "Romance"
+        ],
+        "locations": [
+            "Steveston, Richmond, British Columbia, Canada\n"
+        ]
+    },
+    {
+        "title": "Dragonball Evolution ",
+        "year": "2009",
+        "rating": "2.5",
+        "genres": [
+            "Action",
+            "Adventure"
+        ],
+        "locations": [
+            "Sierra de Organos, Sombrerete, Zacatecas, Mexico\n",
+            "20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA\n",
+            "Churubusco Studios, Mexico City, Distrito Federal, Mexico\n",
+            "Hacienda la Providencia, Durango, Mexico\n",
+            "Instituto de Cultura del Estado de Durango, Durango, Mexico\n",
+            "Laguna Seca de Santiaguillo, Durango, Mexico\n",
+            "Las Dunas De Bilbao, Torreón, Coahuila, Mexico\n",
+            "Los Angeles, California, USA\n",
+            "Mexiquillo, Durango, Mexico\n",
+            "Nevado de Toluca, Estado de México, Mexico\n",
+            "Palenque, Chiapas, Mexico\n",
+            "Parque Nacional Sierra de Órganos, Zacatecas, Mexico\n",
+            "Racho Marley, Durango, Mexico\n",
+            "Rancho la Joya, Durango, Mexico\n",
+            "Santa Fe, Mexico City, Distrito Federal, Mexico\n",
+            "Universidad Tecnológica de México, Mexico City, Distrito Federal, Mexico\n",
+            "Victoria de Durango, Durango, Mexico\n",
+            "Winnipeg, Manitoba, Canada\n"
+        ]
+    },
+    {
+        "title": "Clear and Present Danger ",
+        "year": "1994",
+        "rating": "6.9",
+        "genres": [
+            "Action",
+            "Crime"
+        ],
+        "locations": [
+            "Cuernavaca, Morelos, Mexico\n",
+            "Mexico City, Distrito Federal, Mexico\n",
+            "Tepoztlán, Morelos, Mexico\n",
+            "Quito, Ecuador\n",
+            "Xalapa, Veracruz, Mexico\n",
+            "Paraíso 3, Barrio de San Miguel, Tepoztlán, Morelos, Mexico\n",
+            "Arlington National Cemetery, Arlington, Virginia, USA\n",
+            "Coatepec, Veracruz, Mexico\n",
+            "Fort Huachuca, Arizona, USA\n",
+            "John Wayne Airport - 18601 Airport Way, Santa Ana, California, USA\n",
+            "Nellis Air Force Base, Las Vegas, Nevada, USA\n",
+            "United States Coast Guard Station Los Angeles-Long Beach, San Pedro, Los Angeles, California, USA\n",
+            "Santa Clarita, California, USA\n",
+            "Andrews Air Force Base, Camp Springs, Maryland, USA\n",
+            "CIA Headquarters, Langley, Virginia, USA\n",
+            "J. Edgar Hoover FBI Building - 10th Street & Pennsylvania Avenue NW, Washington, District of Columbia, USA\n",
+            "2039 New Hampshire Avenue NW, Washington, District of Columbia, USA\n",
+            "Hacienda San Gabriel de las Palmas - Km 41.8 Carretera Federal Cuernavaca - Chilpancingo, Amacuzac, Morelos, Mexico\n",
+            "Los Alamitos Naval Reserve Center, Los Alamitos, California, USA\n",
+            "Washington, District of Columbia, USA\n",
+            "White House - 1600 Pennsylvania Avenue NW, Washington, District of Columbia, USA\n",
+            "2912 N Street NW, Washington, District of Columbia, USA\n",
+            "Los Angeles, California, USA\n",
+            "615 S Rossmore Avenue, Hancock Park, Los Angeles, California, USA\n",
+            "Paramount Theatre, Paramount Studios, Hollywood, Los Angeles, California, USA\n"
+        ]
+    },
+    {
+        "title": "Amores Perros ",
+        "year": "2000",
+        "rating": "8.1",
+        "genres": [
+            "Drama",
+            "Thriller"
+        ],
+        "locations": [
+            "Colonia Condesa, Mexico City, Distrito Federal, Mexico\n",
+            "Lomas de Chapultepec, Mexico City, Distrito Federal, Mexico\n",
+            "Mexico City, Distrito Federal, Mexico\n",
+            "Mexico\n"
+        ]
+    },
+    {
+        "title": "La Reina del Sur             ",
+        "year": null,
+        "rating": "8.1",
+        "genres": [
+            "Action",
+            "Crime"
+        ],
+        "locations": [
+            "Spain\n",
+            "Romania\n",
+            "Morocco\n",
+            "Colombia\n",
+            "Mexico\n",
+            "San Diego, California, USA\n"
+        ]
+    },
+    {
+        "title": "Planet Terror ",
+        "year": "2007",
+        "rating": "7.1",
+        "genres": [
+            "Action",
+            "Adventure"
+        ],
+        "locations": [
+            "Tulum, Quintana Roo, Mexico\n",
+            "Austin, Texas, USA\n",
+            "Luling, Texas, USA\n",
+            "Texas, USA\n",
+            "USA\n",
+            "Williamson County Texas, USA\n"
+        ]
+    },
+    {
+        "title": "El Chapo             ",
+        "year": null,
+        "rating": "7.8",
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "locations": []
+    },
+    {
+        "title": "Licence to Kill ",
+        "year": "1989",
+        "rating": "6.6",
+        "genres": [
+            "Action",
+            "Adventure"
+        ],
+        "locations": [
+            "Ernest Hemingway Museum - 907 Whitehead Street, Key West, Florida Keys, Florida, USA\n",
+            "Otomi Ceremonial Center, Toluca, Estado de México, Mexico\n",
+            "Acapulco, Guerrero, Mexico\n",
+            "Seven Mile Bridge, Florida Keys, Florida, USA\n",
+            "707 South Street, Key West, Florida Keys, Florida, USA\n",
+            "Acapulco Bay, Acapulco, Guerrero, Mexico\n",
+            "Di Portanova Estate, Las Brisas, Acapulco, Guerrero, Mexico\n",
+            "Mexicali, Baja California Norte, Mexico\n",
+            "U.S. Coast Guard Sector Key West - 100 Trumbo Road, Key West, Florida Keys, Florida, USA\n",
+            "Acapulco Airport, Acapulco, Guerrero, Mexico\n",
+            "Harbour Lights Bar - 711 Eisenhower Drive, Key West, Florida Keys, Florida, USA\n",
+            "Key West International Airport - South Roosevelt Boulevard, Key West, Florida Keys, Florida, USA\n",
+            "Key West Lighthouse - 938 Whitehead Street, Key West, Florida Keys, Florida, USA\n",
+            "Mallory Square, Key West, Florida Keys, Florida, USA\n",
+            "Marathon, Florida, USA\n",
+            "Mexico City, Distrito Federal, Mexico\n",
+            "Mexico\n",
+            "Old War Office Building, Whitehall, Westminster, London, England, UK\n",
+            "Snipe Point, Key West, Florida Keys, Florida, USA\n",
+            "Southernmost Point, Key West, Florida Keys, Florida, USA\n",
+            "St. Mary's Star of the Sea Catholic Church - 1010 Windsor Lane, Key West, Florida Keys, Florida, USA\n",
+            "Sugarloaf Shores Airport, Sugarloaf Key, Florida Keys, Florida, USA\n",
+            "Churubusco Studios, Mexico City, Distrito Federal, Mexico\n",
+            "El Teatro de la Ciudad, 36 Donceles, Mexico City, Distrito Federal, Mexico\n",
+            "Florida Bay, Florida, USA\n",
+            "Garrison Bight Causeway, Key West, Florida Keys, Florida, USA\n",
+            "Garrison Bight Marina and Causeway, Key West, Florida Keys, Florida, USA\n",
+            "Garrison Bight, Key West, Florida Keys, Florida, USA\n",
+            "Isla Mujeres, Quintana Roo, Mexico\n",
+            "Key Largo, Florida, USA\n",
+            "Key Vaca, Florida Keys, Florida, USA\n",
+            "Key West, Florida Keys, Florida, USA\n",
+            "Naval Air Station, Key West, Florida Keys, Florida, USA\n",
+            "Old Town, Key West, Florida Keys, Florida, USA\n",
+            "Post Office Of Mexico City, Mexico City, Distrito Federal, Mexico\n",
+            "Quintana Roo, Mexico\n",
+            "Rumorosa Pass, Mexicali, Baja California Norte, Mexico\n",
+            "Veracruz, Mexico\n",
+            "Villa Arabesque, Acapulco, Guerrero, Mexico\n",
+            "Westminster, London, England, UK\n",
+            "Whitehall, Westminster, London, England, UK\n",
+            "Yucatan Peninsula, Mexico\n",
+            "Mexico\n",
+            "Miami-Dade County, Florida, USA\n",
+            "Florida Keys, Florida, USA\n",
+            "Sugarloaf Key, Florida Keys, Florida, USA\n",
+            "Sugarloaf Airstrip, Sugarloaf Shores Airport, Sugarloaf Key, Florida Keys, Florida, USA\n",
+            "Overseas Highway, Key Largo, Florida, USA\n",
+            "Toluca, Estado de México, Mexico\n",
+            "Airport, Acapulco, Guerrero, Mexico\n",
+            "Biblioteca de la Banca de Mexico, Mexico City, Distrito Federal, Mexico\n",
+            "Cancún, Benito Juárez, Quintana Roo, Mexico\n",
+            "Casino Espagnol, Mexico City, Distrito Federal, Mexico\n",
+            "Centro Histórico, Mexico City, Distrito Federal, Mexico\n",
+            "Durango, Mexico\n",
+            "El Centro, Mexico City, Distrito Federal, Mexico\n",
+            "El Centro, Mexico\n",
+            "Estado de México, Mexico\n",
+            "Florida Straits, Florida, USA\n",
+            "Gran Hotel de la Ciudad de Mexico, Calle 16 de Septiembre Zocale, Mexico City, Distrito Federal, Mexico\n",
+            "Guerrero, Mexico\n",
+            "Las Brisas, Acapulco, Guerrero, Mexico\n",
+            "Monroe County, Florida, USA\n",
+            "Atlantic Ocean\n",
+            "England, UK\n",
+            "Gulf of Mexico, Mexico\n",
+            "London, England, UK\n"
+        ]
+    },
+    {
+        "title": "Original Sin ",
+        "year": "2001",
+        "rating": "6.1",
+        "genres": [
+            "Drama",
+            "Mystery"
+        ],
+        "locations": [
+            "Estudios Churubusco Azteca, Mexico City, Distrito Federal, Mexico\n",
+            "Mexico\n",
+            "Wapping Pierhead, London, England, UK\n"
+        ]
+    },
+    {
+        "title": "Antlers ",
+        "year": "2021",
+        "rating": null,
+        "genres": [
+            "Horror",
+            "Mystery"
+        ],
+        "locations": [
+            "Hope, British Columbia, Canada\n"
+        ]
+    },
+    {
+        "title": "Deep Blue Sea ",
+        "year": "1999",
+        "rating": "5.9",
+        "genres": [
+            "Action",
+            "Adventure"
+        ],
+        "locations": [
+            "Fox Baja Studios, Rosarito, Baja California Norte, Mexico\n",
+            "Rosarito, Baja California Norte, Mexico\n",
+            "Mexico\n",
+            "San Diego, California, USA\n"
+        ]
+    },
+    {
+        "title": "Trollhunters: Tales of Arcadia             ",
+        "year": null,
+        "rating": "8.5",
+        "genres": [
+            "Animation",
+            "Action"
+        ],
+        "locations": []
+    },
+    {
+        "title": "Babel ",
+        "year": "2006",
+        "rating": "7.4",
+        "genres": [
+            "Drama",
+            "10 November 2006 (USA)\n"
+        ],
+        "locations": [
+            "Ouarzazate, Morocco\n",
+            "Azabu-Juban, Tokyo, Japan\n",
+            "Taguenzalt, Morocco\n",
+            "Tecate, Baja California Norte, Mexico\n",
+            "Shinjuku, Tokyo, Japan\n",
+            "Sonora, Mexico\n",
+            "Tijuana, Baja California Norte, Mexico\n",
+            "Casablanca, Morocco\n",
+            "Shibuya-ku, Tokyo, Japan\n",
+            "Ibaragi, Tochigi, Japan\n",
+            "Mexico\n",
+            "San Diego, California, USA\n",
+            "San Ysidro, San Diego, California, USA\n",
+            "Center Gai, Shibuya-ku, Tokyo, Japan\n",
+            "Tokyo, Japan\n",
+            "Japan\n",
+            "Morocco\n",
+            "USA\n"
+        ]
+    },
+    {
+        "title": "The Professor and the Madman ",
+        "year": "2019",
+        "rating": "7.3",
+        "genres": [
+            "Biography",
+            "Drama"
+        ],
+        "locations": []
+    },
+    {
+        "title": "Man on Fire ",
+        "year": "2004",
+        "rating": "7.7",
+        "genres": [
+            "Action",
+            "Crime"
+        ],
+        "locations": [
+            "Naples, Campania, Italy\n",
+            "Ciudad Juárez, Chihuahua, Mexico\n",
+            "El Paso, Texas, USA\n",
+            "Puebla, Mexico\n",
+            "Mexico City, Distrito Federal, Mexico\n",
+            "Churubusco Studios, Mexico City, Distrito Federal, Mexico\n",
+            "Los Angeles, California, USA\n",
+            "Mexico\n",
+            "Italy\n",
+            "USA\n",
+            "California, USA\n"
+        ]
+    },
+    {
+        "title": "Romancing the Stone ",
+        "year": "1984",
+        "rating": "6.9",
+        "genres": [
+            "Action",
+            "Adventure"
+        ],
+        "locations": [
+            "Huasca de Ocampo, Hidalgo, Mexico\n",
+            "Jalapa, Veracruz, Mexico\n",
+            "Zion National Park, Utah, USA\n",
+            "Mexico City, Distrito Federal, Mexico\n",
+            "St. George, Utah, USA\n",
+            "Veracruz, Veracruz, Mexico\n",
+            "Xico, Veracruz, Mexico\n",
+            "Veracruz, Mexico\n",
+            "Jalcomulco, Veracruz, Mexico\n",
+            "Barraca Grande, Mexico\n",
+            "Valle de Silencio, Mexico\n",
+            "New York City, New York, USA\n",
+            "El Arenal, Durango, Mexico\n",
+            "Tonaya, Jalisco, Mexico\n",
+            "Huasca de Ocampo, Hidalgo, Mexico\n"
+        ]
+    },
+    {
+        "title": "Dad Wanted ",
+        "year": "2020",
+        "rating": "5.7",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "locations": "Not available"
+    },
+    {
+        "title": "Traffic ",
+        "year": "2000",
+        "rating": "7.6",
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "locations": [
+            "Cincinnati, Ohio, USA\n",
+            "Columbus, Ohio, USA\n",
+            "El Paso Intelligence Center - 11339 SSG Sims Street, El Paso, Texas, USA\n",
+            "El Paso, Texas, USA\n",
+            "La Jolla, San Diego, California, USA\n",
+            "Cleveland, Ohio, USA\n",
+            "Tijuana, Baja California Norte, Mexico\n",
+            "Ohio Statehouse - 1 Capitol Square, Columbus, Ohio, USA\n",
+            "Balboa Park - 1549 El Prado, San Diego, California, USA\n",
+            "Mexico City, Distrito Federal, Mexico\n",
+            "Mission Bay, San Diego, California, USA\n",
+            "Pasadena, California, USA\n",
+            "Rancho Bernardo Inn - 17550 Bernardo Oaks Drive, San Diego, California, USA\n",
+            "San Diego, California, USA\n",
+            "Whitefield Street, La Jolla, San Diego, California, USA\n",
+            "California, USA\n",
+            "New Mexico, USA\n",
+            "Ohio, USA\n",
+            "A-1 Self Storage, 1190-B W. Morena Boulevard, San Diego, California, USA\n",
+            "Box Canyon, Las Cruces, New Mexico, USA\n",
+            "Craven Estate - 430 Madeline Avenue, Pasadena, California, USA\n",
+            "Nogales, Arizona, USA\n",
+            "Nogales, Sonora, Mexico\n",
+            "Texas, USA\n",
+            "USA\n",
+            "Arizona, USA\n",
+            "Las Cruces International Airport - 8960 Zia Boulevard, Las Cruces, New Mexico, USA\n",
+            "Los Angeles, California, USA\n",
+            "San Ysidro, New Mexico, USA\n",
+            "Washington, District of Columbia, USA\n"
+        ]
+    },
+    {
+        "title": "Rambo: First Blood Part II ",
+        "year": "1985",
+        "rating": "6.5",
+        "genres": [
+            "Action",
+            "Adventure"
+        ],
+        "locations": [
+            "Acapulco, Guerrero, Mexico\n",
+            "Tecoanapa, Guerrero, Mexico\n",
+            "Mexico\n",
+            "Sierra Madre del Sur de Chiapas, Mexico\n",
+            "Sierra Madre del Sur de Oaxaca, Mexico\n"
+        ]
+    },
+    {
+        "title": "Frida ",
+        "year": "2002",
+        "rating": "7.4",
+        "genres": [
+            "Biography",
+            "Drama"
+        ],
+        "locations": [
+            "Barrio del Alto, Puebla, Mexico\n",
+            "San Luis Potosi, San Luis Potosí, Mexico\n",
+            "Mexico City, Distrito Federal, Mexico\n",
+            "Teotihuacán, San Juan Teotihuacán, Estado de México, Mexico\n",
+            "Estudios Churubusco Azteca, Mexico City, Distrito Federal, Mexico\n"
+        ]
+    },
+    {
+        "title": "Narcos: Mexico             ",
+        "year": null,
+        "rating": "8.4",
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "locations": "Not available"
+    },
+    {
+        "title": "Elysium ",
+        "year": "2013",
+        "rating": "6.6",
+        "genres": [
+            "Action",
+            "Drama"
+        ],
+        "locations": [
+            "Mexico City, Distrito Federal, Mexico\n",
+            "Punta de Mita, Nayarit, Mexico\n",
+            "Bear Creek Park, Surrey, British Columbia, Canada\n",
+            "Vancouver, British Columbia, Canada\n",
+            "Mexico\n",
+            "Canada\n",
+            "British Columbia, Canada\n",
+            "New York City, New York, USA\n"
+        ]
+    },
+    {
+        "title": "The Mask of Zorro ",
+        "year": "1998",
+        "rating": "6.7",
+        "genres": [
+            "Action",
+            "Adventure"
+        ],
+        "locations": [
+            "Durango, Mexico\n",
+            "Guaymas, Sonora, Mexico\n",
+            "San Blas hacienda, Lopez Mateos, Tlaxcala, Mexico\n",
+            "Santa Maria Regla, Hidalgo, Mexico\n",
+            "Atotonilico de Tula, Hidalgo, Mexico\n",
+            "Hidalgo, Mexico\n",
+            "Tetlapayac, Hidalgo, Mexico\n",
+            "Toluca, Estado de México, Mexico\n",
+            "Orlando, Florida, USA\n",
+            "Pachuca, Hidalgo, Mexico\n",
+            "Estudios Churubusco Azteca, Mexico City, Distrito Federal, Mexico\n"
+        ]
+    },
+    {
+        "title": "Roma ",
+        "year": "2018",
+        "rating": "7.7",
+        "genres": [
+            "Drama",
+            "21 November 2018 (USA)\n"
+        ],
+        "locations": [
+            "Mexico City, Distrito Federal, Mexico\n",
+            "21 Tepeji, Roma Sur, Ciudad de México, Mexico\n",
+            "Mexico\n",
+            "Teatro Metropolitan, Mexico City, Mexico\n"
+        ]
+    },
+    {
+        "title": "Crimson Peak ",
+        "year": "2015",
+        "rating": "6.5",
+        "genres": [
+            "Horror",
+            "Thriller"
+        ],
+        "locations": [
+            "Kingston, Ontario, Canada\n",
+            "Hamilton, Ontario, Canada\n",
+            "Dundurn Castle, Hamilton, Ontario, Canada\n",
+            "Casa Loma, Toronto, Ontario, Canada\n",
+            "Victoria College, University of Toronto, Toronto, Ontario, Canada\n",
+            "Pinewood Toronto Studios, Port Lands, Toronto, Ontario, Canada\n",
+            "Toronto, Ontario, Canada\n",
+            "Ontario, Canada\n",
+            "Canada\n",
+            "Scottish Rite, 4 Queen Street South, Hamilton, Ontario, Canada\n",
+            "Kendall, Clarington, ON, Canada\n"
+        ]
+    },
+    {
+        "title": "Y Tu Mamá También ",
+        "year": "2001",
+        "rating": "7.6",
+        "genres": [
+            "Drama",
+            "12 October 2001 (Colombia)\n"
+        ],
+        "locations": [
+            "Tepelmeme Villa de Morelos, Oaxaca, Mexico\n",
+            "Puerto Escondido, Oaxaca, Mexico\n",
+            "Wings, Paseo de la Reforma No. 108, Col. Juárez, Del. Cuauhtemoc, Mexico City, Mexico\n",
+            "Huatulco, Oaxaca, Mexico\n",
+            "Mexico City, Distrito Federal, Mexico\n",
+            "Mexico\n",
+            "Hotel Guelaguetza, Rayón 215, Centro, 68000, Oaxaca de Juárez\n"
+        ]
+    },
+    {
+        "title": "Power Rangers ",
+        "year": "2017",
+        "rating": "5.9",
+        "genres": [
+            "Action",
+            "Adventure"
+        ],
+        "locations": [
+            "Kamloops, British Columbia, Canada\n",
+            "Vancouver, British Columbia, Canada\n",
+            "Steveston, Richmond, British Columbia, Canada\n",
+            "3580 Moncton Street, Richmond, British Columbia, Canada\n",
+            "Templeton Secondary School, Vancouver, British Columbia, Canada\n"
+        ]
+    },
+    {
+        "title": "Apocalypto ",
+        "year": "2006",
+        "rating": "7.8",
+        "genres": [
+            "Action",
+            "Adventure"
+        ],
+        "locations": [
+            "Las Tuxtlas, Veracruz, Mexico\n",
+            "San Andres Chicahuaxtla, Oaxaca, Mexico\n",
+            "Catemaco, Veracruz, Mexico\n",
+            "Mexico\n",
+            "Polgaver Beach, Carylon Bay,Saint Austell, UK\n",
+            "Sierra Madre del Sur de Oaxaca, Mexico\n",
+            "Sierra Madre del Sur de Chiapas, Mexico\n"
+        ]
+    },
+    {
+        "title": "Spectre ",
+        "year": "2015",
+        "rating": "6.8",
+        "genres": [
+            "Action",
+            "Adventure"
+        ],
+        "locations": [
+            "Mexico City, Mexico\n",
+            "Erfoud, Morocco\n",
+            "Sölden, Austria\n",
+            "Rome, Lazio, Italy\n",
+            "Ice Q Restaurant, Das Central Hotel, Auweg 3, Sölden, Austria\n",
+            "Tangier, Morocco\n",
+            "Lake Altausee, Austria\n",
+            "Oujda, Morocco\n",
+            "Obertilliach, Austria\n",
+            "London, England, UK\n",
+            "Stanley Crescent, Notting Hill, London, England, UK\n",
+            "Blenheim Palace, Woodstock, Oxfordshire, England, UK\n",
+            "The Kasbah, Tangier, Morocco\n",
+            "Rule's Restaurant, Covent Garden, London, England, UK\n",
+            "Gran Hotel de la Ciudad de Mexico, Calle 16 de Septiembre Zocale, Mexico City, Distrito Federal, Mexico\n",
+            "Zócalo, Colonia Centro, Cuauhtémoc, Mexico City, Distrito Federal, Mexico\n",
+            "Westminster Bridge, Westminster, London, England, UK\n",
+            "Tolsa Square, Mexico City, Distrito Federal, Mexico\n",
+            "Plaza de la Constitucion, Mexico City, Distrito Federal, Mexico\n",
+            "Cable Car Station, Das Central Hotel, Auweg 3, Sölden, Austria\n",
+            "The Colosseum, Rome, Lazio, Italy\n",
+            "Villa di Fiorano, Via Appia Antica, Rome, Lazio, Italy\n",
+            "Riverwalk House, Millbank, London, England, UK\n",
+            "Mexico City, Distrito Federal, Mexico\n",
+            "Ötztal Glacier Road, Rettenbach, Austria\n",
+            "Colonia Centro, Mexico City, Distrito Federal, Mexico\n",
+            "Trastevere, Rome, Lazio, Italy\n",
+            "Freemason's Hall, Great Queen Street, Covent Garden, London, England, UK\n",
+            "Drummonds Bank Building, Spring Gardens, London, England, UK\n",
+            "National Museum of Art, Mexico City, Distrito Federal, Mexico\n",
+            "Pinewood Studios, Iver Heath, Buckinghamshire, England, UK\n",
+            "Garibaldi Museum, Largo di Porta San Pancrazio 9, Rome, Lazio, Italy\n",
+            "Tiber River, Rome, Lazio, Italy\n",
+            "St. Peter's Square, Vatican City\n",
+            "Liezen, Austria\n",
+            "Albert R. Broccoli 007 Stage, Pinewood Studios, Iver Heath, Buckinghamshire, England, UK\n",
+            "EUR, Rome, Lazio, Italy\n",
+            "Tolsá Plaza, Mexico City, Distrito Federal, Mexico\n",
+            "The Home of the Mayor, London, England, UK\n",
+            "Forum Romanum, Rome, Lazio, Italy\n",
+            "Ausseerland, Steiermark, Austria\n",
+            "Corso Vittorio, Rome, Lazio, Italy\n",
+            "City Hall, London, England, UK\n",
+            "Lungotevere, Rome, Lazio, Italy\n",
+            "Basilica of St. Paul outside the Walls, Rome, Lazio, Italy\n",
+            "Piazza Giovanni Agnelli, Rome, Lazio, Italy\n",
+            "Theatre of Marcellus, Rome, Lazio, Italy\n",
+            "1 Stanley Crescent, Notting Hill, London, England, UK\n",
+            "Street Tacuba, Mexico City, Distrito Federal, Mexico\n",
+            "Borgo Vittorio, Rome, Lazio, Italy\n",
+            "Via Panisperna, Rome, Lazio, Italy\n",
+            "Altaussee, Austria\n",
+            "Birgler Kapelle, Kartitsch, Austria\n",
+            "Jagdhaus Seewiese, Altaussee, Austria\n",
+            "Ausseerland-Salzkammergut, Austria\n",
+            "Spring Gardens, London, England, UK\n",
+            "Gaislachkogl Mountain, Sölden, Austria\n",
+            "Scalo De Pinedo, Rome, Lazio, Italy\n",
+            "Ponte Sisto, Rome, Lazio, Italy\n",
+            "Kartitsch, Austria\n",
+            "Notting Hill, London, England, UK\n",
+            "Colonia Centro, Cuauhtémoc, Mexico City, Distrito Federal, Mexico\n",
+            "Cuauhtémoc, Mexico City, Distrito Federal, Mexico\n",
+            "Mexico City Cathedral, Mexico City, Distrito Federal, Mexico\n",
+            "The Palace of Mining, Mexico City, Distrito Federal, Mexico\n",
+            "Altare della Patria, Piazza Venezia, Rome, Lazio, Italy\n",
+            "Admiralty Arch, The Mall, St. James's, London, England, UK\n",
+            "Westminster Abbey, Westminster, London, England, UK\n",
+            "Via del Teatro di Marcello, Rome, Lazio, Italy\n",
+            "Vauxhall, London, England, UK\n",
+            "Camden, London, England, UK\n",
+            "The Quattro Fontane, Rome, Lazio, Italy\n",
+            "Via del Quirinale, Rome, Lazio, Italy\n",
+            "Janiculum Hill, Rome, Lazio, Italy\n",
+            "Circus Maximus, Rome, Lazio, Italy\n",
+            "Fontana dell'Acqua Paola, Janiculum Hill, Rome, Lazio, Italy\n",
+            "Nomentana Avenue Giulio Cesare, Rome, Lazio, Italy\n",
+            "Giulio Cesare, Rome, Lazio, Italy\n",
+            "Nomentana Avenue, Rome, Lazio, Italy\n",
+            "Aventine Hill, Rome, Lazio, Italy\n",
+            "Testaccio, Rome, Lazio, Italy\n",
+            "Tiber River Waterfront, Rome, Lazio, Italy\n",
+            "Museo della Civiltà Romana, Piazza Giovanni Agnelli, Rome, Lazio, Italy\n",
+            "Via Appia Antica, Rome, Lazio, Italy\n",
+            "Rettenbach, Austria\n",
+            "Via della Conciliazione, Rome, Lazio, Italy\n",
+            "Porta San Pancrazio, Rome, Lazio, Italy\n",
+            "Passetto di Borgo, Rome, Lazio, Italy\n",
+            "Ponte Mazzini, Rome, Lazio, Italy\n",
+            "Ponte Sant'Angelo, Rome, Lazio, Italy\n",
+            "Royal Borough of Kensington and Chelsea, London, England, UK\n",
+            "Lambeth Bridge, Millbank, London, England, UK\n",
+            "Treasury Building, Great George Street, Whitehall, London, England, UK\n",
+            "Regent's Canal, Camden Lock, London, England, UK\n",
+            "Westminster Bridge Road, London, England, UK\n",
+            "Sisto Bridge, Rome, Lazio, Italy\n",
+            "St. James's, London, England, UK\n",
+            "St. Peter's Basilica, Vatican City\n",
+            "Corso Vittorio Emanuele II, Rome, Lazio, Italy\n",
+            "Via Nomentana, Rome, Lazio, Italy\n",
+            "Piazza Trilussa, Rome, Lazio, Italy\n",
+            "Backlot, Pinewood Studios, Iver Heath, Buckinghamshire, England, UK\n",
+            "Westminster Bridge, Lambeth, London, England, UK\n",
+            "Lambeth, London, England, UK\n",
+            "Westminster, London, England, UK\n",
+            "Trafalgar Square, St James's, London, England, UK\n",
+            "London Assembly, London, England, UK\n",
+            "B Stage, Pinewood Studios, Iver Heath, Buckinghamshire, England, UK\n",
+            "D Stage, Pinewood Studios, Iver Heath, Buckinghamshire, England, UK\n",
+            "Q Stage, Pinewood Studios, Iver Heath, Buckinghamshire, England, UK\n",
+            "S Stage, Pinewood Studios, Iver Heath, Buckinghamshire, England, UK\n",
+            "South Bank, Lambeth, London, England, UK\n",
+            "County Hall, South Bank, Lambeth, London, England, UK\n",
+            "Via delle Quattro Fontane, Rome, Lazio, Italy\n",
+            "Piazza Navona, Rome, Lazio, Italy\n",
+            "Stadium of Domitian, Rome, Lazio, Italy\n",
+            "Hilton Hotel, Camden Lock, London, England, UK\n",
+            "Tiefenbachferner Glacier, Rettenbach, Austria\n",
+            "Rettenbachbachferner Glacier, Rettenbach, Austria\n",
+            "Salzkammergut, Austria\n",
+            "Steiermark, Austria\n",
+            "Garden of the Oranges, Rome, Lazio, Italy\n",
+            "Das Central Hotel, Auweg 3, Sölden, Austria\n",
+            "Vatican City\n",
+            "Austrian Alps, Austria\n",
+            "Westminster, Westminster, London, England, UK\n",
+            "Houses of Parliament, Westminster, London, England, UK\n",
+            "Big Ben, Houses of Parliament, Westminster, London, England, UK\n",
+            "River Thames, London, England, UK\n",
+            "Vauxhall Cross - 85 Albert Embankment, Vauxhall, London, England, UK\n",
+            "Lambeth Bridge, River Thames, London, England, UK\n",
+            "Lambeth Bridge, Westminster, London, England, UK\n",
+            "Regent's Canal, Islington, London, England, UK\n",
+            "Great George Street, London, England, UK\n",
+            "The Mall, St. James's, London, England, UK\n",
+            "Covent Garden, London, England, UK\n",
+            "Vauxhall Bridge, Westminster, London, England, UK\n",
+            "Teatro di Marcello, Via del Teatro di Marcello, Rome, Lazio, Italy\n",
+            "Hungerford Bridge, London, England, UK\n",
+            "Camden Lock, Chalk Farm Road, Camden, London, England, UK\n",
+            "Woodstock, Oxfordshire, England, UK\n",
+            "Oxfordshire, England, UK\n",
+            "A Stage, Pinewood Studios, Iver Heath, Buckinghamshire, England, UK\n",
+            "C Stage, Pinewood Studios, Iver Heath, Buckinghamshire, England, UK\n",
+            "H Stage, Pinewood Studios, Iver Heath, Buckinghamshire, England, UK\n",
+            "R Stage, Pinewood Studios, Iver Heath, Buckinghamshire, England, UK\n",
+            "Millbank, Westminster, London, England, UK\n",
+            "Islington, London, England, UK\n",
+            "Tirol, Austria\n",
+            "Ötztal Alps , Austria\n",
+            "Gostenwald Forest, Austria\n",
+            "Canals, Camden Lock, London, England, UK\n",
+            "Styria, Austria\n",
+            "Whitehall, Westminster, London, England, UK\n",
+            "Antonello Venditti, Rome, Lazio, Italy\n",
+            "Centro Histórico District, Mexico City, Distrito Federal, Mexico\n",
+            "Palenque, Chiapas, Mexico\n"
+        ]
+    },
+    {
+        "title": "Sicario ",
+        "year": "2015",
+        "rating": "7.6",
+        "genres": [
+            "Action",
+            "Crime"
+        ],
+        "locations": [
+            "El Paso, Texas, USA\n",
+            "Albuquerque, New Mexico, USA\n",
+            "Mexico City, Distrito Federal, Mexico\n",
+            "Motel 1, 2001 Candelaria Rd NE, Albuquerque, New Mexico, USA\n",
+            "Wild Pony Bar - 4555 Hwy 314 SW, Los Lunas, New Mexico, USA\n",
+            "Corrales, New Mexico, USA\n",
+            "Ciudad Juárez, Chihuahua, Mexico\n",
+            "9620 Candelaria Road NE, Albuquerque, New Mexico, USA\n"
+        ]
+    },
+    {
+        "title": "Dark Desire             ",
+        "year": null,
+        "rating": "6.3",
+        "genres": [
+            "Drama",
+            "Mystery"
+        ],
+        "locations": [
+            "Mexico City\n",
+            "New York, USA\n"
+        ]
+    },
+    {
+        "title": "No Country for Old Men ",
+        "year": "2007",
+        "rating": "8.1",
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "locations": [
+            "Marfa, Texas, USA\n",
+            "Desert Sands Motor Hotel - 5000 Central Avenue Southeast, Albuquerque, New Mexico, USA\n",
+            "Big Bend National Park, Texas, USA\n",
+            "Las Vegas, New Mexico, USA\n",
+            "El Camino Motel & Restaurant - 1152 North Grand Avenue, Las Vegas, New Mexico, USA\n",
+            "Albuquerque, New Mexico, USA\n",
+            "Piedras Negras, Coahuíla, Mexico\n",
+            "Santa Fe, New Mexico, USA\n",
+            "Garson Studios, College of Santa Fe - 1600 Saint Michaels Drive, Santa Fe, New Mexico, USA\n",
+            "Regal Motel, 1809 N. Grand Ave., Las Vegas, New Mexico, USA\n",
+            "Historic Plaza Hotel, 230 Plaza Park, Las Vegas, New Mexico, USA\n"
+        ]
+    },
+    {
+        "title": "Bad Boys for Life ",
+        "year": "2020",
+        "rating": "6.6",
+        "genres": [
+            "Action",
+            "Comedy"
+        ],
+        "locations": [
+            "Atlanta, Georgia, USA\n",
+            "Yautepec, Morelos, Mexico\n",
+            "Naucalpan, Estado de México, Mexico\n",
+            "Miami, Florida, USA\n"
+        ]
+    },
+    {
+        "title": "Narcos             ",
+        "year": null,
+        "rating": "8.8",
+        "genres": [
+            "Biography",
+            "Crime"
+        ],
+        "locations": [
+            "Bogotá, Colombia\n",
+            "Cali, Valle del Cauca, Colombia\n",
+            "Cartagena, Colombia\n",
+            "Medellin, Colombia\n"
+        ]
+    },
+    {
+        "title": "Titanic ",
+        "year": "1997",
+        "rating": "7.8",
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "locations": [
+            "Titanic wreck, Titanic Canyon, North Atlantic, Atlantic Ocean\n",
+            "Fox Baja Studios, Rosarito, Baja California Norte, Mexico\n",
+            "Halifax, Nova Scotia, Canada\n",
+            "Vancouver, British Columbia, Canada\n",
+            "Rosarito, Baja California Norte, Mexico\n",
+            "Belmont Olympic Pool - 4000 E. Olympic Plaza, Long Beach, California, USA\n",
+            "S.S. Lane Victory, Pier 94, San Pedro, Los Angeles, California, USA\n",
+            "S.S. Jeremiah O'Brien, San Francisco, California, USA\n",
+            "Santa Clarita, California, USA\n"
+        ]
+    },
+    {
+        "title": "Queen of the South             ",
+        "year": null,
+        "rating": "7.9",
+        "genres": [
+            "Action",
+            "Crime"
+        ],
+        "locations": [
+            "Morocco\n",
+            "Spain\n",
+            "Dallas, Texas, USA\n",
+            "Costa Rica\n",
+            "Waxahachie, Texas, USA\n",
+            "Lancaster, Texas, USA\n",
+            "Malta\n"
+        ]
+    },
+    {
+        "title": "Fear the Walking Dead             ",
+        "year": null,
+        "rating": "6.9",
+        "genres": [
+            "Drama",
+            "Horror"
+        ],
+        "locations": [
+            "Vancouver, British Columbia, Canada\n",
+            "Burnaby, British Columbia, Canada\n",
+            "Baja Studios, BC, Mexico\n",
+            "El Sereno, Los Angeles, California, USA\n",
+            "Los Angeles, California, USA\n",
+            "Long Beach, California, USA\n",
+            "Texas, USA\n",
+            "Dell Diamond Stadium - 3400 East Palm Valley Blvd., Round Rock, Texas, USA\n",
+            "New Braunfels, Texas, USA\n",
+            "Taylor, Texas, USA\n",
+            "Mexico\n",
+            "Round Rock, Texas, USA\n",
+            "Gonzales, Texas, USA\n"
+        ]
+    }
+]
